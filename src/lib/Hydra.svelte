@@ -59,4 +59,4 @@
 
 <svelte:window bind:innerWidth={iw} bind:innerHeight={ih} />
 
-<canvas class="fixed -z-10" bind:this={canvas} />
+<canvas class="fixed -z-10 top-0" bind:this={canvas} />
