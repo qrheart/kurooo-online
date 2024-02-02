@@ -36,6 +36,18 @@
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
+			href="https://lilkurokokoro.itch.io/">itch.io</a
+		>
+		<br />
+		<a
+			class="underline underline-offset-4 hover:text-red-500"
+			target="_blank"
+			href="https://www.twitch.tv/lilkurokokoro">twitch</a
+		>
+		<br />
+		<a
+			class="underline underline-offset-4 hover:text-red-500"
+			target="_blank"
 			href="https://github.com/lilkurokokoro">github</a
 		>
 		<a
