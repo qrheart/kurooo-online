@@ -38,7 +38,6 @@
 			target="_blank"
 			href="https://lilkurokokoro.itch.io/">itch.io</a
 		>
-		<br />
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
