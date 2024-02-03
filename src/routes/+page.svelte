@@ -13,31 +13,31 @@
 <div class="w-full h-screen grid place-content-center">
 	<h1 class="font-extrabold text-3xl text-yellow-300 mix-blend-screen text-center">
 		✧*̥˚ reach me!!! *̥˚✧ <br />
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://www.twitter.com/lilkurokokoro">twitter</a
-		>
+		> -->
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://www.youtube.com/@lilkurokokoro">youtube</a
 		>
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://habr.com/ru/users/lilkurokokoro/">habr</a
-		>
+		> -->
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://t.me/lilkurokokoro">telegram</a
 		>
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://lilkurokokoro.itch.io/">itch.io</a
-		>
+		> -->
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
@@ -49,16 +49,16 @@
 			target="_blank"
 			href="https://github.com/lilkurokokoro">github</a
 		>
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://dribbble.com/lilkurokokoro">dribble</a
-		>
-		<a
+		> -->
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://codepen.io/lilkurokokoro">codepen</a
-		>
+		> -->
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
