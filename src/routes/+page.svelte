@@ -12,7 +12,9 @@
 
 <div class="w-full h-screen grid place-content-center">
 	<h1 class="font-extrabold text-3xl text-yellow-300 mix-blend-screen text-center">
-		✧*̥˚ reach me!!! *̥˚✧ <br />
+		✧*̥˚ reach me!!! *̥˚✧ 
+		<br />
+		<br />
 		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
@@ -43,7 +45,6 @@
 			target="_blank"
 			href="https://www.twitch.tv/lilkurokokoro">twitch</a
 		> -->
-		<br />
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
@@ -69,6 +70,7 @@
 			target="_blank"
 			href="https://www.upwork.com/freelancers/~01bb16a991d85e2467?p=1597746988665610240">upwork</a
 		>
+		<br />
 		<br />
 		⋇⋆✦⋆⋇
 	</h1>
