@@ -18,36 +18,41 @@
 			target="_blank"
 			href="https://www.twitter.com/lilkurokokoro">twitter</a
 		> -->
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://www.youtube.com/@lilkurokokoro">youtube</a
-		>
+		> -->
 		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://habr.com/ru/users/lilkurokokoro/">habr</a
 		> -->
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://t.me/lilkurokokoro">telegram</a
-		>
+		> -->
 		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://lilkurokokoro.itch.io/">itch.io</a
 		> -->
-		<a
+		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
 			href="https://www.twitch.tv/lilkurokokoro">twitch</a
-		>
+		> -->
 		<br />
 		<a
 			class="underline underline-offset-4 hover:text-red-500"
 			target="_blank"
-			href="https://github.com/lilkurokokoro">github</a
+			href="https://github.com/eugenekx">github</a
+		>
+		<a
+			class="underline underline-offset-4 hover:text-red-500"
+			target="_blank"
+			href="https://www.linkedin.com/in/eugenekx/">linkedin</a
 		>
 		<!-- <a
 			class="underline underline-offset-4 hover:text-red-500"
