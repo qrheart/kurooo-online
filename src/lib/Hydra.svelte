@@ -24,11 +24,7 @@
 			detectAudio: false
 		}).synth;
 
-		h.shape(99)
-			.scale(1, 1, () => iw / ih)
-			.mult(h.osc(10, 0.1, 2))
-			.modulateScale(h.osc(1, 2).invert(), 0.5, 0.5)
-			.out();
+	h.osc(20, 0.03, 1.7).kaleid().mult(h.osc(20, 0.001, 0).rotate(1.58)).blend(h.o0, 0.94).modulateScale(h.osc(10, 0),-0.03).scale(0.8, () => (1.05 + 0.1 * Math.sin(0.05*h.time))).out(h.o0)
 
 		// h.solid(0, 0, 0)
 		// 	.layer(
